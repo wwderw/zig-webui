@@ -55,7 +55,7 @@ Like `zig build run_minimal`, this will build and run the `minimal` example.
 
 ```sh
 # It is recommended to replace the following branch with commit id
-zig fetch --save https://github.com/webui-dev/zig-webui/archive/main.tar.gz
+zig fetch --save https://github.com/wwderw/zig-webui/archive/main.tar.gz
 # Of course, you can also use git+https to fetch this package!
 ```
 
